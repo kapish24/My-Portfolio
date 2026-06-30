@@ -5,7 +5,7 @@
 ### B.Tech Computer Science Engineering Student
 ### Software Developer • Problem Solver • Open Source Enthusiast
 
-[🌐 Live Portfolio](https://my-portfolio-kapish-portfolio.vercel.app) •
+[🌐 Live Portfolio](https://kapishsingh.vercel.app/) •
 [💼 LinkedIn](https://www.linkedin.com/in/kapish-singh31/) •
 [💻 GitHub](https://github.com/kapish24) •
 [🧩 LeetCode](https://leetcode.com/u/Kapish31/) •
